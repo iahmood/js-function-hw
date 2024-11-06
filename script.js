@@ -117,7 +117,7 @@ const createUsername = (fn, ln) => {
 }
 console.log('Exercise 11 Result:', createUsername('Muneeb', 'Ahmad'))
 
-/* exercise number 11 */
+/* exercise number 12 */
 const numArgs = (...args) => {
   return args.length
 }
